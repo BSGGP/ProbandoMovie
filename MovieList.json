@@ -1,10 +1,10 @@
 {
   "Movies": [
     {
-      "Title": "Holaquetal",
-      "Description": "sdfvfsd",
+      "Title": "abre este",
+      "Description": "dale al boton play para abrir un video de prueba.",
       "ImagePath": "sds",
-      "VideoPath": "dsvsd"
+      "VideoPath": "http://techslides.com/demos/sample-videos/small.mp4"
     },
     {
       "Title": "aficionado",
