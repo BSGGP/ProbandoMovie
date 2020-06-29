@@ -3,7 +3,7 @@
     {
       "Title": "abre este",
       "Description": "dale al boton play para abrir un video de prueba.",
-      "Genders": [{5}],
+      "Genders": [5],
       "ImagePath": "sds",
       "VideoPath": "http://techslides.com/demos/sample-videos/small.mp4"
     },
